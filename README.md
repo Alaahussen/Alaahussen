@@ -1,6 +1,7 @@
 ***👋 Welcome to My GitHub Profile!***
 
 Hi, I'm ***Alaa Hussien!*** I'm a passionate computer science enthusiast currently diving deep into Machine Learning. I'm actively learning and working on projects to expand my knowledge and skills in the field.
+
 ***🚀 About Me***
 
 ***👀 Interests:*** Computer Science, Machine Learning, Data Science, Artificial Intelligence, Deep Learning, and Algorithms.
@@ -9,7 +10,9 @@ Hi, I'm ***Alaa Hussien!*** I'm a passionate computer science enthusiast current
 
 **💻 Current Projects:**
 Working on a crowd counting project using CSRNet.
+
 Experimenting with GANs for semi-supervised learning.
+
 Exploring image segmentation and object detection using PyTorch and TensorFlow.
 
  **🛠️ Skills & Tools**
